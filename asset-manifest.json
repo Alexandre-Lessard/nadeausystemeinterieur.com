@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/nadeausystemeinterieur.com/static/css/main.f78d4c7c.css",
-    "main.js": "/nadeausystemeinterieur.com/static/js/main.610be300.js",
-    "static/js/787.be47dbd4.chunk.js": "/nadeausystemeinterieur.com/static/js/787.be47dbd4.chunk.js",
-    "static/media/slide-2.png": "/nadeausystemeinterieur.com/static/media/slide-2.361787be9ac65711586f.png",
-    "static/media/Service-3.jpg": "/nadeausystemeinterieur.com/static/media/Service-3.af80a8ad50b6c4b6ac8d.jpg",
-    "static/media/Service-2.jpg": "/nadeausystemeinterieur.com/static/media/Service-2.ca1fcf22f98daea9aa1d.jpg",
-    "static/media/Brand.png": "/nadeausystemeinterieur.com/static/media/Brand.8668fa25dda593dd8834.png",
-    "static/media/nsi_logo.png": "/nadeausystemeinterieur.com/static/media/nsi_logo.2622dc73282724d2334e.png",
-    "static/media/Service-1.jpg": "/nadeausystemeinterieur.com/static/media/Service-1.3f31c311a2326f48c207.jpg",
-    "static/media/Service-4.jpg": "/nadeausystemeinterieur.com/static/media/Service-4.7f9d570998dd35aa7538.jpg",
-    "index.html": "/nadeausystemeinterieur.com/index.html",
-    "main.f78d4c7c.css.map": "/nadeausystemeinterieur.com/static/css/main.f78d4c7c.css.map",
-    "main.610be300.js.map": "/nadeausystemeinterieur.com/static/js/main.610be300.js.map",
-    "787.be47dbd4.chunk.js.map": "/nadeausystemeinterieur.com/static/js/787.be47dbd4.chunk.js.map"
+    "main.css": "/static/css/main.2da01035.css",
+    "main.js": "/static/js/main.ee5892fb.js",
+    "static/js/787.be47dbd4.chunk.js": "/static/js/787.be47dbd4.chunk.js",
+    "static/media/slide-2.png": "/static/media/slide-2.361787be9ac65711586f.png",
+    "static/media/Service-3.jpg": "/static/media/Service-3.af80a8ad50b6c4b6ac8d.jpg",
+    "static/media/Service-2.jpg": "/static/media/Service-2.ca1fcf22f98daea9aa1d.jpg",
+    "static/media/Brand.png": "/static/media/Brand.8668fa25dda593dd8834.png",
+    "static/media/nsi_logo.png": "/static/media/nsi_logo.2622dc73282724d2334e.png",
+    "static/media/Service-1.jpg": "/static/media/Service-1.3f31c311a2326f48c207.jpg",
+    "static/media/Service-4.jpg": "/static/media/Service-4.7f9d570998dd35aa7538.jpg",
+    "index.html": "/index.html",
+    "main.2da01035.css.map": "/static/css/main.2da01035.css.map",
+    "main.ee5892fb.js.map": "/static/js/main.ee5892fb.js.map",
+    "787.be47dbd4.chunk.js.map": "/static/js/787.be47dbd4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f78d4c7c.css",
-    "static/js/main.610be300.js"
+    "static/css/main.2da01035.css",
+    "static/js/main.ee5892fb.js"
   ]
 }
